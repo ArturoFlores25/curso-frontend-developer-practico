@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Desktop\\R2D2\\Pre Work"
+		},
+		{
+			"path": "..\\..\\Desktop\\R2D2"
+		},
+		{
+			"path": "..\\..\\proyecto1"
+		},
+		{
+			"path": "..\\..\\proyecto2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portafolio"
+	}
+}
